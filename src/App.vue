@@ -187,6 +187,14 @@ export default {
               img: "css.png",
             },
             {
+              title: "Javascript",
+              img: "javascript.jpg",
+            },
+            {
+              title: "JQuery",
+              img: "jQuery-logo.png",
+            },
+            {
               title: "PHP",
               img: "php.png",
             },
@@ -209,6 +217,10 @@ export default {
             {
               title: "Git/Github",
               img: "Octocat.png",
+            },
+            {
+              title: "Mysql",
+              img: "mysql-logo.png",
             },
           ],
           title: "HABILIDADES",
