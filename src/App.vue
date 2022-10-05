@@ -199,6 +199,10 @@ export default {
               img: "php.png",
             },
             {
+              title: "Java Web",
+              img: "javaweb.png",
+            },
+            {
               title: "VueJS",
               img: "vuejs.png",
             },
@@ -222,6 +226,10 @@ export default {
               title: "Mysql",
               img: "mysql-logo.png",
             },
+            {
+              title: "BD2",
+              img: "db2.png",
+            },
           ],
           title: "HABILIDADES",
           description: "Mis conocimientos",
@@ -243,7 +251,7 @@ export default {
         title: "description",
         metadata: {
           pres_second:
-            "Siempre me ha gustado meterme en proyectos utilizando las habilidades que no tengo o que incluso me sobraban, programación pura en lenguajes como PHP, Vuejs, ReactJs, NodeJs, Solidity, Blockchain Ethereum, Python. Me apasiona el back-end en cualquier lenguaje de programación. Esto me ha permitido a ser autónomo y aprender por mi cuenta, ciertamente con y sin dificultades. ¡Pero siempre logré superar los obstáculos y resolver los problemas que encontré!",
+            "Siempre me ha gustado trabajar en proyectos utilizando las habilidades que no tengo o que incluso me sobraban, programación pura en lenguajes como PHP, Java, Vuejs, ReactJs, NodeJs, Solidity, Blockchain Ethereum, Python. Me apasiona el back-end en cualquier lenguaje de programación. Esto me ha permitido a ser autónomo y aprender por mi cuenta, ciertamente con y sin dificultades. ¡Pero siempre logré superar los obstáculos y resolver los problemas que encontré!",
           pres_first:
             "Soy desarrollador Full-Stack. Tengo un título como tecnólogo en análisis y desarrollo de software, también tengo un certificado en desarrollo de Solidity lenguaje de Blockchain Ethereum. Siempre me ha apasionado el desarrollo de software e indagar en nuevas tendencias de programación, me considero una persona con alto grado de aprendizaje. Me gusta al igual trabajar en equipo y obtener buenos resultados.",
           pres_title: "¿ Quién soy ?",
@@ -258,6 +266,12 @@ export default {
           description: "Profesional y académica",
           title: "Experiencia",
           professional: [
+            {
+              year: "10.2021 - Actualidad",
+              title: "Thomas Processing & Systems",
+              content:
+                "Desarrollador de Software: Desarrollo de aplicaciones web a la medida TPS",
+            },
             {
               year: "11.2018 - 12.2021",
               title: "SENA - Centro Nacional Colombo Alemán",
@@ -284,6 +298,11 @@ export default {
             },
           ],
           academic: [
+            {
+              year: "2022",
+              title: "Máster en Vue JS de cero a experto",
+              content: "Udemy.com",
+            },
             {
               year: "2021",
               title:
@@ -328,7 +347,8 @@ export default {
 
     this.user = {
       name: "Juan David Castro Hoyos",
-      status: "Desarrollador Full-Stack Javascript y Php",
+      status:
+        "Desarrollador Full-Stack Javascript, Php, Java, Solidity (BlockChain Ethereum)",
       email: "jdcastro464@gmail.com",
       phone: "+57 3023393413",
       city: "Barranquilla, Atlántico",
