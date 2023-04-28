@@ -1,4 +1,4 @@
- <template>
+<template>
   <header class="header parallax">
     <div class="name">
       <div class="wrapper-name">
@@ -8,6 +8,7 @@
         <hr />
         <AnimateOnVisible name="fadeUp" ::duration="1">
           <p>{{ user.status }}</p>
+          <p>{{ user.skills }}</p>
         </AnimateOnVisible>
       </div>
     </div>
@@ -17,7 +18,7 @@
 <script>
 export default {
   name: "LandingPage",
-  props: ["user"]
+  props: ["user"],
 };
 </script>
 

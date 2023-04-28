@@ -171,28 +171,16 @@ export default {
         metadata: {
           items: [
             {
-              title: "Red Ethereum",
-              img: "ethereum.png",
-            },
-            {
-              title: "Solidity Smart Contracts",
-              img: "solidity.png",
-            },
-            {
-              title: "HTML",
-              img: "html.png",
-            },
-            {
-              title: "CSS",
-              img: "css.png",
-            },
-            {
               title: "Javascript",
               img: "javascript.jpg",
             },
             {
-              title: "JQuery",
-              img: "jQuery-logo.png",
+              title: "VueJS",
+              img: "vuejs.png",
+            },
+            {
+              title: "NodeJS",
+              img: "nodejs.png",
             },
             {
               title: "PHP",
@@ -203,20 +191,24 @@ export default {
               img: "javaweb.png",
             },
             {
-              title: "VueJS",
-              img: "vuejs.png",
+              title: "HTML",
+              img: "html.png",
             },
             {
-              title: "ReactJS",
-              img: "reactjs.png",
+              title: "CSS",
+              img: "css.png",
             },
             {
-              title: "NodeJS",
-              img: "nodejs.png",
+              title: "Red Ethereum",
+              img: "ethereum.png",
             },
             {
-              title: "Python",
-              img: "python.png",
+              title: "Solidity Smart Contracts",
+              img: "solidity.png",
+            },
+            {
+              title: "Spring Boot",
+              img: "spring-framework.png",
             },
             {
               title: "Git/Github",
@@ -225,6 +217,10 @@ export default {
             {
               title: "Mysql",
               img: "mysql-logo.png",
+            },
+            {
+              title: "SQLServer",
+              img: "sqlserver.png",
             },
             {
               title: "BD2",
@@ -250,10 +246,11 @@ export default {
         slug: "description",
         title: "description",
         metadata: {
-          pres_second:
-            "Siempre me ha gustado trabajar en proyectos utilizando las habilidades que no tengo o que incluso me sobraban, programación pura en lenguajes como PHP, Java, Vuejs, ReactJs, NodeJs, Solidity, Blockchain Ethereum, Python. Me apasiona el back-end en cualquier lenguaje de programación. Esto me ha permitido a ser autónomo y aprender por mi cuenta, ciertamente con y sin dificultades. ¡Pero siempre logré superar los obstáculos y resolver los problemas que encontré!",
           pres_first:
-            "Soy desarrollador Full-Stack. Tengo un título como tecnólogo en análisis y desarrollo de software, también tengo un certificado en desarrollo de Solidity lenguaje de Blockchain Ethereum. Siempre me ha apasionado el desarrollo de software e indagar en nuevas tendencias de programación, me considero una persona con alto grado de aprendizaje. Me gusta al igual trabajar en equipo y obtener buenos resultados.",
+            "Desarrollador Tecnológico Full-Stack. Siempre me ha apasionado el desarrollo de software e indagar en nuevas tendencias de programación, me considero una persona con alto grado de aprendizaje.",
+          pres_second:
+            "Trabajo en equipo aplicando la metodología SCRUM, con experia en desarrollos con lenguajes: Javascript, VueJs, Java, PHP, Solidity, Ethereum, Spring Boot.",
+          pres_three: "Manejo de bases de datos MySQL, DB2 y SQLServer.",
           pres_title: "¿ Quién soy ?",
           description: "Espero conocerte",
           title: "Acerca de mi",
@@ -298,6 +295,11 @@ export default {
             },
           ],
           academic: [
+            {
+              year: "2023",
+              title: "Vue.js - Intermedio: Lleva tus bases al siguiente nivel",
+              content: "Udemy.com",
+            },
             {
               year: "2022",
               title: "Máster en Vue JS de cero a experto",
@@ -347,8 +349,9 @@ export default {
 
     this.user = {
       name: "Juan David Castro Hoyos",
-      status:
-        "Desarrollador Full-Stack Javascript, Php, Java, Solidity (BlockChain Ethereum)",
+      status: "Desarrollador Full-Stack",
+      skills:
+        "Javascript, VueJs, Java, Spring Boot, PHP, Solidity (BlockChain Ethereum)",
       email: "jdcastro464@gmail.com",
       phone: "+57 3023393413",
       city: "Barranquilla, Atlántico",
