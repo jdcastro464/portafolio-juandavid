@@ -91,7 +91,7 @@ export default {
             {
               title: "Encuesta de Caracterización",
               content:
-                "Plataforma desarrollada para la gestión de aprendices en el area de Bienestar al aprendiz del Centro Nacional Colombo Alemán, y brindarle seguimiento al inicio de la formación.<br/><br/>Link: <a href='https://colomboalemanbq.com/encuesta_caracterizacion/' target='_blank'>https://colomboalemanbq.com/encuesta_caracterizacion/</a>",
+                "Plataforma desarrollada para la gestión de aprendices en el area de Bienestar al aprendiz del Centro Nacional Colombo Alemán, y brindarle seguimiento al inicio de la formación.",
               image: "encuesta_caracterizacion.png",
               tag: "PHP",
               color: "white",
@@ -100,7 +100,7 @@ export default {
             {
               title: "Gestión Educativa - CNCA",
               content:
-                "Plataforma desarrollada la publicación de programas complementarios del Centro Nacional Colombo Alemán, a la vez poder administrar los cursos, inscripciones y áreas especialidad de cada curso.<br/><br/>Link: <a href='https://colomboalemanbq.com/gestioneducativa/' target='_blank'>https://colomboalemanbq.com/gestioneducativa/</a>",
+                "Plataforma desarrollada la publicación de programas complementarios del Centro Nacional Colombo Alemán, a la vez poder administrar los cursos, inscripciones y áreas especialidad de cada curso.",
               image: "gestionedu.png",
               tag: "Software",
               color: "turquoise",
@@ -109,7 +109,7 @@ export default {
             {
               title: "Horarios Colombo Alemán",
               content:
-                "Herramienta web para la administración de horarios de formación titulada en el Sena Centro Nacional Colombo Alemán, y brindar seguimiento a los horarios publicados<br/><br/>Link: <a href='https://colomboalemanbq.com/horariocnca/' target='_blank'>https://colomboalemanbq.com/horariocnca/</a>",
+                "Herramienta web para la administración de horarios de formación titulada en el Sena Centro Nacional Colombo Alemán, y brindar seguimiento a los horarios publicados.",
               image: "horarios.png",
               tag: "Software",
               color: "purple",
@@ -118,7 +118,7 @@ export default {
             {
               title: "Sisnova",
               content:
-                "Sistema de gestión documental de Sennova Centro Nacional Colombo Alemán.<br/><br/>Link: <a href='https://colomboalemanbq.com/sisnova/' target='_blank'>https://colomboalemanbq.com/sisnova/</a>",
+                "Sistema de gestión documental de Sennova Centro Nacional Colombo Alemán.",
               image: "sisnova.png",
               tag: "Aplicativo Web",
               color: "green",
